@@ -4,4 +4,5 @@ Crowdsourced list identifying cheap/free tools that don't extract personal data 
 
 |Tool Name|Purpose|Cost model|Data Policy|Link|Notes|
 |:-|:-|:-|:-|:-|:-|
-|Whereby|Video Conferencing|Freemium|Able to set provacy settings|[https://whereby.com](https://whereby.com)|Privacy setting page 404s|
+|Whereby|Video conferencing|Freemium|Able to set privacy settings|[https://whereby.com](https://whereby.com)|Privacy setting page 404s|
+|Talky|Video conferencing|Free|Logs IP address to connect|[https://talky.io](https://talky.io)|Simple to use|
